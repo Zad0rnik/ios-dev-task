@@ -1,0 +1,6 @@
+module Pods_iOS_developer_test_task {
+  umbrella header "Pods-iOS developer test task-umbrella.h"
+
+  export *
+  module * { export * }
+}
